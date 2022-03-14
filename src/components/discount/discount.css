@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.diskon {
+    display: flex;
+    height: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.opt-code {
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: -15px;
+}
+
+.bi-chevron-compact-down {
+    margin-top: 13px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.bi-chevron-compact-down:hover {
+    box-shadow: 2px rgb(44, 43, 43);
+    transform: translateY(1px);
+}
